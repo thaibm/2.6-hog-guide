@@ -7,14 +7,15 @@ description: 'Hog 2.6: the deck with the potential to outplay'
 There is a Hog 2.6 discord server you can join. It has videos against most matchups and you can talk to the rest of us pushing with 2.6: [https://discord.gg/fXUqFYx](https://discord.gg/fXUqFYx)
 
 <img src="assets/0(1).png" alt="hog">
-<img src="./assets/0(1).png" alt="hog">
+
 Author: David Song,
 
 Date Created: September 28, 2019
 
 IGN: 2%-battery.
 
-![](<.gitbook/assets/1 (1).png>)
+![](<assets/1 (1).png>)
+<!-- <img src="assets/1 (1).png" alt="hog"> -->
 
 If you are looking for info for a specific matchup that isn’t covered here, please let me know through a comment here. I’ll try to research them and write what I find here.
 
