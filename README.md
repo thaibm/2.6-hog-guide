@@ -1,9 +1,12 @@
-# 2.6 Guide
 ---
 description: This is about a certain deck in the mobile game Clash Royale
 ---
 
-There are two links here.&#x20;
+# 2.6 Guide
+
+***
+
+There are two links here.
 
 The first is a general guide.
 
