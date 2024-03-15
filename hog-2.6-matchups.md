@@ -93,7 +93,7 @@
 
 In the lower ladder, you’ll usually see these kinds of decks a lot. Usually contains cards that seem outwardly strong, like Pekka, wizard, prince, minion horde, etc. Wizards are a threat to 2.6, so try to fireball + log the wizard if it’s played behind a tank. The rest of their deck usually are made of single-target hard hitters, so make use of your cycle cards to kite as much as possible. Watch out for prediction spells though, so be sure to be hovering a second cycle card in the location that will be sure to kite (against these hard hitters, 1 mis-kite will make you lose the game, so better be safe than sorry).
 
-These decks can sometimes contain 3 or more hog counters. However, it is very likely that 1 of these is outplayable, for example with a prediction fireball, so that will be your win condition. If you truly cannot get hog hits, just spell cycle. Log cycling is the safest, but get fireball value whenever you can. ALWAYS remember to play it safe, and remember their cycle like your life depends on it. These decks are usually heavy, so outcycle and punish them HARD when they invest a non-threatening troop in the back. ![](.gitbook/assets/0.png)
+These decks can sometimes contain 3 or more hog counters. However, it is very likely that 1 of these is outplayable, for example with a prediction fireball, so that will be your win condition. If you truly cannot get hog hits, just spell cycle. Log cycling is the safest, but get fireball value whenever you can. ALWAYS remember to play it safe, and remember their cycle like your life depends on it. These decks are usually heavy, so outcycle and punish them HARD when they invest a non-threatening troop in the back. ![](assets/0.png)
 
 * Pekka Wizard
 
@@ -189,7 +189,7 @@ If the opponent tries to build a push from the back, as usual, you can prepare w
 
 In double elixir time, you want to activate your king tower with the double cannon pull. That way, future defenses will be much easier. Ideally, you cannon, then skeletons behind princess tower, then ice spirit the balloon, then ice golem to tank for any enemy ranged units like musketeers (if not, try to catch miner with it too), and log the miner. And then play the second cannon.
 
-![](.gitbook/assets/1.png)
+![](assets/1.png)
 
 Here is a video example of Oyassuu doing this after cycling musketeer in the back:: [https://youtu.be/NbxmEP2Zvec?t=465](https://youtu.be/NbxmEP2Zvec?t=465)
 
@@ -214,7 +214,7 @@ Tips:
 
 ### Pekka loon (The Anaban deck) <a href="#za35ycd2ksv9" id="za35ycd2ksv9"></a>
 
-![](.gitbook/assets/2.png)
+![](assets/2.png)
 
 Once you recognize the deck, the strategy is to cycle cannon early if they try to build a pekka push. Early as in like, the first card you play in response to the pekka in the back. Play the first cannon in the 4-1 position, so no balloon can bypass this. If the opponent tries to play same lane, you’re pretty much ready to defend, and you should have an easy defense. If the opponent tries to go opposite lane after seeing the cannon, cycle back to another cannon, and play a 4-1 cannon on that side. Now you have two cannons, and you should be able to defend easily.
 
@@ -250,7 +250,7 @@ As for defending against giant in general, a 4-3 cannon placement will do fine, 
 
 ### Giant Double Prince <a href="#id-23a84svwpopx" id="id-23a84svwpopx"></a>
 
-<figure><img src=".gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/3.png" alt=""><figcaption></figcaption></figure>
 
 [https://youtu.be/I84rnM4OE6E?t=2918](https://youtu.be/I84rnM4OE6E?t=2918)
 
@@ -332,7 +332,7 @@ Double elixir time
 * Musk in corner 4-3 cannon (note: hog opp is a blunder)
 * Hog opp
 
-![](.gitbook/assets/4.png)
+![](assets/4.png)
 
 ### Golem matchups <a href="#p35wy6misae0" id="p35wy6misae0"></a>
 
@@ -408,7 +408,7 @@ For golem matchups in double elixir, proper ice golem usage is essential and kit
 
 **\*If the opponent plays golem in their back corner or on the bridge towards the outer edge, a 4-3 cannon will NOT pull a pushed golem, use a 3-2 cannon instead.**
 
-<figure><img src=".gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/5.png" alt=""><figcaption></figcaption></figure>
 
 ### Golem poison <a href="#tmas1tqfwhsd" id="tmas1tqfwhsd"></a>
 
@@ -424,7 +424,7 @@ This matchup isn’t so bad. Even though the poison can kill your musketeer, it�
 
 There’s one game mechanic that you need to understand before going into this matchup. And that is how ground units like musketeer walk, because a musketeer walking into lightning range of cannon will make you lose the game.
 
-<figure><img src=".gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/6.png" alt=""><figcaption></figcaption></figure>
 
 When a ground unit is placed in the back or somewhere that isn’t in the same 3 column as the bridge tiles are, the unit will walk diagonally until it gets to the same column as the bridge, and then walk straight.
 
@@ -448,7 +448,7 @@ Note: hog should be played when you hit 4 elixir. If you wait longer, like after
 
 Words from me:
 
-<figure><img src=".gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/7.png" alt=""><figcaption></figcaption></figure>
 
 Play cannon early, since if they lightning the cannon and you don’t have a second cannon ready soon, you will take a lot of damage.
 
@@ -508,7 +508,7 @@ The key to winning this matchup is focusing on defense first since they generall
 
 This matchup becomes way easier if you use electro spirit.
 
-![](.gitbook/assets/8.png)
+![](assets/8.png)
 
 ## Graveyard matchups <a href="#fhjjt1ule1or" id="fhjjt1ule1or"></a>
 
@@ -542,7 +542,7 @@ Don’t play hog every time you have it. You might not even get hog hits and you
 
 ### Giant Graveyard <a href="#id-76h9d9s24a3j" id="id-76h9d9s24a3j"></a>
 
-<figure><img src=".gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/9.png" alt=""><figcaption></figcaption></figure>
 
 [https://youtu.be/O4VdZQlnh4c?t=818](https://youtu.be/O4VdZQlnh4c?t=818)
 
@@ -572,7 +572,7 @@ Alternatively, if you don’t have musketeer, you can use your cannon to pull th
 
 When your opponent plays giant in the back, you will have to start setting up your defense. Play musketeer in the corner. It will walk up a little, so feel free to play an ice golem in front of it. Also feel free to play a hog rider opposite lane as well. When the giant gets closer to the bridge, play skeletons for the graveyard (if you are playing skeletons a little early, play them in the corner; if it’s just in time for the graveyard, put them near your tower). Then play a cannon. You can play a 4-3 cannon or a 5-0 cannon (the 5-0 cannon will be a little close to your musketeer, so be careful of spells if you do that). If they use spells or get rid of your first musketeer, you can play a second musketeer close to your king tower to deal with the graveyard.
 
-![](.gitbook/assets/10.png) ![](.gitbook/assets/11.png)
+![](assets/10.png) ![](assets/11.png)
 
 The graveyard is a much bigger threat than the giant, so prioritize defending the graveyard first.
 
@@ -580,7 +580,7 @@ Definitely try to take down 1 tower before the game ends, since graveyard has a 
 
 Here is a cannon pull that you can do after 1 tower is down (works against balloon as well). When pulling any building targeting troops away from your towers when placed in the core a general tip is as long as the cannon has range of it when it is in the core it will pull it. You have to be fast though, so first practice in a friendly battle. This is useful because if your opponent has a high dps unit at the bridge where your building is your building may die too quickly.
 
-![](.gitbook/assets/12.png)
+![](assets/12.png)
 
 Remember that giant graveyard is a 10 elixir push, and you should feel comfortable spending about that amount on defense. Don’t try to weasel your way out of spending a few elixir, because that will cost you the game in a lot of cases(so don’t try to be cheap and use way less elixir e.g.:cannon+skellies on the giant, espirit once skellies start piling up; since it can backfire badly. In this case, you will get countered pretty hard since the opponent has 2 small spells.
 
@@ -598,7 +598,7 @@ Try not to use log in single elixir time. It’s really bad if log is your last 
 
 <div data-full-width="false">
 
-<figure><img src=".gitbook/assets/13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/13.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -612,9 +612,9 @@ I highly recommend that you listen to the advice given here:[https://youtu.be/Wq
 
 * Tips from a graveyard player himself
 
-![](.gitbook/assets/14.png)
+![](assets/14.png)
 
-![](.gitbook/assets/15.png)
+![](assets/15.png)
 
 * Defending against the graveyard
 
@@ -624,7 +624,7 @@ In these decks, the tanks are usually not building targeters, so playing ice gol
 
 If you can, try to activate KT using their BBD. But do not risk tower damage for it.
 
-![](.gitbook/assets/16.png)
+![](assets/16.png)
 
 Remember that Graveyard + spell is a 9 elixir push. Generally, a Graveyard + spell won’t happen in single elixir, but if it does, punish with a ice golem + hog + fireball. Be careful though: the opponent will punish you for not having ice golem, so use ice spirit and musketeer perfectly when that happens.
 
@@ -644,7 +644,7 @@ Having a surviving musketeer to counter push is very good in this matchup since 
 
 [https://youtu.be/fkWkSYtD6S8](https://youtu.be/fkWkSYtD6S8)
 
-Here’s my game against Graveyard Poison. I started making mistakes in double elixir, when I wasn’t anticipating the graveyard. I should have recognized that a graveyard was coming and should have played cannon early behind my princess tower. I should make it a reflex to play cannon ice golem quickly when the graveyard is played. But instead I played the cards one at a time, and took more damage as a result.![](.gitbook/assets/17.png)
+Here’s my game against Graveyard Poison. I started making mistakes in double elixir, when I wasn’t anticipating the graveyard. I should have recognized that a graveyard was coming and should have played cannon early behind my princess tower. I should make it a reflex to play cannon ice golem quickly when the graveyard is played. But instead I played the cards one at a time, and took more damage as a result.![](assets/17.png)
 
 At 3:03 in the video, I should not have sniped with my musketeer. A simple fireball would have done the trick. Not only that, I didn’t even wait until 10 elixir to do it, so I misplayed there.
 
@@ -726,7 +726,7 @@ You can use either skeletons or ice spirit for this.
 
 ### Hog Earthquake <a href="#im7p9uzbdyd0" id="im7p9uzbdyd0"></a>
 
-<figure><img src=".gitbook/assets/18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/18.png" alt=""><figcaption></figcaption></figure>
 
 This was probably the best hog deck in the game at the time.
 
@@ -740,7 +740,7 @@ However, this matchup is very winnable if they only have 1 hog counter, since EQ
 
 Earthquake has a 7 tile diameter, which means you can’t place a cannon that both pulls an auto-pig-push hog and is immune to earthquake. You can outplay this though. Read what I wrote for the card interactions for Earthquake.
 
-<figure><img src=".gitbook/assets/19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/19.png" alt=""><figcaption></figcaption></figure>
 
 There is another defense that you might have to use, but it will require you to be ready by hovering a card over your screen. You can use a 0-3 cannon, which is EQ proof from the tower, but before that, you will have to use an ice spirit, skeletons, or ice golem to push the hog rider sideways towards the cannon. This is done by placing the troop on the outermost tile of the bridge. Or one tile away from the edge of the arena and one tile away from the river.
 
@@ -752,7 +752,7 @@ You can see the trick here (works against lightning too): [https://www.reddit.co
 
 ### AQ Giant Skeleton w/ hog/pigs <a href="#id-9adjqm4xpioa" id="id-9adjqm4xpioa"></a>
 
-![](.gitbook/assets/20.png)
+![](assets/20.png)
 
 This is tough matchup, because if the 2.6 player doesn’t know what they are doing they’ll just get steamrolled.
 

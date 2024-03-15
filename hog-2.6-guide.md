@@ -15,7 +15,6 @@ Date Created: September 28, 2019
 IGN: 2%-battery.
 
 ![](<assets/1 (1).png>)
-<!-- <img src="assets/1 (1).png" alt="hog"> -->
 
 If you are looking for info for a specific matchup that isn’t covered here, please let me know through a comment here. I’ll try to research them and write what I find here.
 
@@ -161,25 +160,25 @@ This placement should be used against giant or goblin giant sparky decks since t
 
 Note: This placement will usually pull all ranged units and melee units in the left lane. On the right lane, it will only distract magic archer, dart goblin, princess, and firecracker. This cannon placement does activate king tower for firecrackers in the left lane.
 
-![](<.gitbook/assets/2 (1).png>)
+![](<assets/2 (1).png>)
 
 #### 4 - 3 Placement
 
 This is a 4-3 placement. This is the maximum pull position for any big tank. You just have to know when it is safe to use. It is safe to use for golems placed behind the king tower, giants that aren’t being pushed away, hog/ram riders that aren’t placed in the bypass position.
 
-![](<.gitbook/assets/3 (1).png>)
+![](<assets/3 (1).png>)
 
 #### 3 - 3 Placement
 
 This is a 3-3 placement. This is an anti-fireball position for big tank decks that use fireball, which includes giant and goblin giant. This also can be used against 2.9 X-bow to tank the X-bow for a short duration. This is also good against any misplaced hog riders/ram riders. This placement also pulls melee units from **both** lanes.
 
-![](<.gitbook/assets/4 (1).png>)
+![](<assets/4 (1).png>)
 
 #### 0 - 3 Placement
 
 This is a 0-3 placement. This is the anti-lightning or anti-earthquake placement. Generally used against big tanks **placed at the bridge** that have lightning or royal hogs with earthquake.
 
-![](<.gitbook/assets/5 (1).png>)
+![](<assets/5 (1).png>)
 
 #### 0 - 2 Placement
 
@@ -187,7 +186,7 @@ This is a 0-2 placement. Used almost exclusively to pull balloons against lavalo
 
 Note: a 1-2 placement still pulls balloon. This is used in case the opponent might send flying units to kill cannon so that you can place units in front of the cannon to protect it.
 
-![](<.gitbook/assets/6 (1).png>)
+![](<assets/6 (1).png>)
 
 #### 4 - 1 Placement
 
@@ -195,19 +194,19 @@ This is a 4-1 placement. This is only for pulling balloons placed in the bypass 
 
 WARNING: If you are late on the cannon, Do NOT use 4-1 against hog rider, since it is very famous for bypassing this placement. If you are late with cannon, I actually suggest a 5-0 placement, shown further below
 
-![](<.gitbook/assets/7 (1).png>) ![](<.gitbook/assets/8 (1).png>)
+![](<assets/7 (1).png>) ![](<assets/8 (1).png>)
 
 #### 3 - 1 Placement
 
 This is a 3-1 placement. This placement not only pulls balloons but also pulls lava hounds. This placement also works with the double cannon pull (the second cannon goes in the same spot). However, this placement isn’t used very often because the cannon is vulnerable to a fireball, which will kill it if the lava hound is also attacking it.
 
-![](<.gitbook/assets/9 (1).png>)
+![](<assets/9 (1).png>)
 
 #### 5 - 0 Placement
 
 This is a 5-0 placement. This is generally used against graveyard. It will also pull any units in this lane. This placement is also useful if you need to play a late cannon against any hog riders or ram riders.
 
-![](<.gitbook/assets/10 (1).png>)
+![](<assets/10 (1).png>)
 
 ### Musketeer placements <a href="#id-4j9y7k9verho" id="id-4j9y7k9verho"></a>
 
@@ -217,37 +216,37 @@ Musketeer has a few placements that you will be commonly using.
 
 _**In front of the king tower**_. This placement is generally used against small pushes in single elixir time, or when your opponent isn’t able to play their spell on the musketeer. It is great against dual lane pressure, but it risks spell value if you need to place a cannon in the center as well.
 
-![](<.gitbook/assets/11 (1).png>)
+![](<assets/11 (1).png>)
 
 #### Behind the King Tower
 
 Behind the King Tower. This is nearly the same as the placement in front of the king tower, except it is delayed a little. In particular, this can be used against lava miner decks, since the musketeer is in range of the second princess tower, as opposed to placing the musk at the side of the arena.
 
-![](<.gitbook/assets/12 (1).png>)
+![](<assets/12 (1).png>)
 
 #### Slide of the arena
 
 Side of the arena. This placement is used when you think you will possibly also play cannon during a defense. This usually prevents spells like lightning and poison from hitting both the musketeer and the cannon. Generally used against any push with a big ground tank.
 
-![](<.gitbook/assets/13 (1).png>)
+![](<assets/13 (1).png>)
 
 #### Corner
 
 _**Corner**_. This placement serves the same purpose as the side of arena placement, except delayed. Generally used as the starting response against golem in the back.
 
-![](<.gitbook/assets/14 (1).png>)
+![](<assets/14 (1).png>)
 
 #### Center Building Snipe
 
 _**Center Building Snipe**_. For sniping any buildings 3 tiles or fewer from the river
 
-![](<.gitbook/assets/15 (1).png>)
+![](<assets/15 (1).png>)
 
 #### X-bow Snipe (For matching up with X-bow decks)
 
 _**X-bow Snipe**_. This one is necessary to know in order to beat X-bow. It is out of range of any teslas that the opponent might support the X-bow with.
 
-![](<.gitbook/assets/16 (1).png>)
+![](<assets/16 (1).png>)
 
 ### Important Concepts for Beginner Players <a href="#hhqj4rwr79ex" id="hhqj4rwr79ex"></a>
 
@@ -593,7 +592,7 @@ This fact can really hinder your ability to defend. Thankfully, musketeer and ca
 
 ## General tips and concepts <a href="#biqre07aszoo" id="biqre07aszoo"></a>
 
-<figure><img src=".gitbook/assets/17 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/17 (1).png" alt=""><figcaption></figcaption></figure>
 
 If you want quick tips, look here. Lots of tips apply to all decks.
 
@@ -622,7 +621,7 @@ If you want quick tips, look here. Lots of tips apply to all decks.
 22. The best way to get hog damage in during double elixir is to send in hog after they just defended and during their counter push. If it’s not possible, start spell cycling. It is said that 2.6 is a fireball cycle deck in double elixir.
 23. To further the spell cycle, log cycling from the start of the game will add up to a lot of damage. Also using ice spirit to further chip will also help.
 24. Don’t let ice spirit die without freezing. This can make or break your defense.
-25. This image shows how the trophy number of your opponent blocks the health bar of a building placed in that corner. As long as the building-in-the-corner exploit exists for you, it’s better to play your opening hog into the left lane (where the trophy number is) so that it discourages the other player from possibly playing a building in that corner. If they do, your fireball will just get value since it’ll do damage to the tower you’re already attacking.![](<.gitbook/assets/18 (1).png>)
+25. This image shows how the trophy number of your opponent blocks the health bar of a building placed in that corner. As long as the building-in-the-corner exploit exists for you, it’s better to play your opening hog into the left lane (where the trophy number is) so that it discourages the other player from possibly playing a building in that corner. If they do, your fireball will just get value since it’ll do damage to the tower you’re already attacking.![](<assets/18 (1).png>)
 26. This deck is the cheapest cycle deck in the game that is viable, barring the 2.0 PONOS miner WB cycle and some really cheap logbait decks, so as long as you are actively outcycling, you’ll be able to get to cards faster than your opponent.
 27. This will be mentioned later on, but don't throw away skeletons and ice/electro spirit. I see this a lot. Ice spirit can buy you enough time to defend, and one of your best kiting/distracting cards.skeletons are crazy bulk dps that will help you in a lot of matchups.
 28. Read the feedback and help channels in the discord. There are some amazing tips there.
@@ -635,7 +634,7 @@ Sometimes I’ll face a deck that counters hog too well, like graveyard decks wi
 
 *   Dealing with lightning
 
-    <figure><img src=".gitbook/assets/19 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="assets/19 (1).png" alt=""><figcaption></figcaption></figure>
 
 Obviously, space musketeers and cannons further away. But dealing with lightning is not only that. When it comes to defense, it becomes easy to not think of using hog. But hog becomes the correct play when it comes to preventing or delaying the lightning from happening. The longer the opponent goes without using lightning, the more damage is done by the musk or cannon. By the time the opponent gets 6 elixir again for a lightning, the damage done by your units has been done.
 
@@ -649,7 +648,7 @@ Also, for some reason, I initially tried to cycle 2 musketeers in single elixir 
 
 When it comes to miners sniping your musketeers, it is good if your musketeer is played between the princess towers, so that a miner will be targeted by the other princess tower. It is important to save your musketeers, so in case you need to save a musketeer, I believe log + ice spirit + skeletons will save it. If your musketeer is in your 2 tower zone, then just the log and skeletons will save it.
 
-<figure><img src=".gitbook/assets/20 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/20 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Turning the game around
 
