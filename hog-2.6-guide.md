@@ -75,9 +75,7 @@ This guide aims to figure out how to play against every matchup. This guide is n
 
 If you're above 8k in trophies, you probably should just go to the matchups section of this guide.
 
-{% content-ref url="hog-2.6-matchups.md" %}
 [hog-2.6-matchups.md](hog-2.6-matchups.md)
-{% endcontent-ref %}
 
 If you are here to complain about the deck, go away. This deck has a 1-2% usage rate.
 
